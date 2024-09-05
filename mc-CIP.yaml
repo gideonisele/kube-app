@@ -4,7 +4,7 @@ metadata:
   name: vprocache01
 spec:
   ports:
-  - port: 13211
+  - port: 11211
     targetPort: vpromc-port
     protocol: TCP
 selector:
